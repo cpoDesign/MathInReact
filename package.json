@@ -1,0 +1,28 @@
+{
+  "name": "React-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Pavel Svarc",
+  "license": "ISC",
+  "dependencies": {
+    "@use-it/interval": "^1.0.0",
+    "bootstrap": "^4.5.2",
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-toastify": "^6.0.8"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-plugin-react": "^7.20.5",
+    "prettier": "2.0.5",
+    "react-hooks": "^1.0.1"
+  }
+}
